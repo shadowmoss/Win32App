@@ -5,4 +5,5 @@ CompileFlags:
     -IC:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\,
     -IC:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\winrt\,
     -IC:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\,
-    -ID:\VSTool\VC\Tools\MSVC\14.44.35207\include\]
+    -ID:\VSTool\VC\Tools\MSVC\14.44.35207\include\,
+    -ID:\work\Win32App]
